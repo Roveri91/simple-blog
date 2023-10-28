@@ -1,11 +1,5 @@
-import { useState } from "react";
-
-const BlogList = () => {
-  const [blogs, setBlogs] = useState([
-    { title: "My first Blog", body: "lorem ipsum...", author: "Simone", id: 1},
-    {title: "Coding is Great", body: "lorem ipsum etc...", author: "Mark Zuckerberg", id: 2},
-    {title: "React is fun", body: "Even more lorem ipsum ...", author: "Elon Musk", id: 3}
-  ]);
+const BlogList = (props) => {
+  const blogs = props.blogs;
 
   return (
     <div className="blog-list">
