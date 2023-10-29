@@ -4,6 +4,7 @@
   font-family: 'Lora', serif;
   color: rgb(43, 40, 40);
   margin: 0;
+  /* overflow: hidden; */
 }
 
 /* NAVBAR */
@@ -12,9 +13,15 @@
   display: flex;
   margin: 0 auto;
   align-items: center;
-  max-width: 600px;
+  /* max-width: 600px; */
   padding: 1rem ;
   border-bottom: 3px solid mediumpurple;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 10;
+  background-color: rgb(225, 225, 225);
+  /* overflow: hidden; */
 }
 
 .navbar h1 {
@@ -23,6 +30,7 @@
 
 .navbar .links {
   margin-left: auto;
+  margin-right: 24px;
 }
 
 .navbar a {
@@ -39,7 +47,7 @@
 .content {
   max-width: 600px;
   margin: 2rem auto;
-  padding: 6px;
+  padding: 32px;
 }
 
 /* BLOG PREVIEW / LIST */
