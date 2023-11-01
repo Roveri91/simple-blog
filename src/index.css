@@ -104,3 +104,22 @@
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
 }
+
+/* BLOG DETAILS */
+
+.blog-details {
+  border: 2px solid mediumpurple;
+  border-radius: 2em;
+  padding: 2rem;
+  margin: 5rem 1rem;
+  box-shadow: 1px 3px 5px mediumpurple;
+}
+
+.blog-details h2, .blog-details p{
+  color: mediumpurple;
+  /* margin-bottom: 1pxs; */
+}
+
+.blog-details div {
+  margin-top: 2rem;
+}
