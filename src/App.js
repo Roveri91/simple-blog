@@ -17,7 +17,7 @@ function App() {
               <Create/>
             </Route>
           </Switch>
-      </div>
+        </div>
       </div>
     </Router>
   );
