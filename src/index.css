@@ -123,3 +123,49 @@
 .blog-details div {
   margin-top: 2rem;
 }
+
+/* CREATE PAGE */
+
+.create {
+  border: 2px solid mediumpurple;
+  border-radius: 2em;
+  padding: 2rem;
+  margin: 5rem 1rem;
+  box-shadow: 1px 3px 5px mediumpurple;
+  text-align: center;
+  max-width: 400px;
+}
+
+.create h2 {
+  color: mediumpurple;
+}
+
+.create label{
+  /* display: grid; */
+  text-align: left;
+  display: block;
+}
+
+.create input, .create textarea {
+  width: 100%;
+  border: solid 2px rgb(187, 169, 223);
+  border-radius: 5px;
+  display: block;
+  margin: 10px auto;
+  padding: 2px;
+}
+
+.create button {
+  background-color: mediumpurple;
+  border: solid 2px mediumpurple;
+  border-radius: 2rem;
+  padding: 10px 40px;
+}
+ .create button:hover {
+  /* border-color: black; */
+  font-weight: 900;
+ }
+
+ .create button:active {
+  border-color: white;
+ }
