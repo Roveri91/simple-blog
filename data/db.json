@@ -29,6 +29,18 @@
       "body": "Traveling back in time to explore the ruins of ancient civilizations is a captivating experience. Join us as we embark on a virtual journey to uncover the mysteries of the past and learn about the remarkable cultures that once thrived on our planet.",
       "author": "Sarah Williams",
       "id": 5
+    },
+    {
+      "title": "How to build a Blog page with React",
+      "body": "This is a secret!\nI can't tell you the truth behid React app, only the chosen-ones deserve to know the secret mistery",
+      "author": "Bill Gates",
+      "id": 6
+    },
+    {
+      "title": "mnew",
+      "body": "wfefdfsdfe",
+      "author": "fa",
+      "id": 7
     }
   ]
 }
