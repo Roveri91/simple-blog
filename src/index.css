@@ -41,7 +41,8 @@
 
 .navbar a:hover {
   color: mediumpurple;
-  text-decoration-line: underline;
+  /* text-decoration-line: underline; */
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);;
 }
 
 .content {
@@ -181,11 +182,39 @@
   border-radius: 2rem;
   padding: 10px 40px;
 }
- .create button:hover {
+.create button:hover {
   /* border-color: black; */
   font-weight: 900;
- }
+}
 
- .create button:active {
+.create button:active {
   border-color: white;
- }
+}
+
+ /* NOT-FOUND */
+.not-found {
+   border: 2px brown ridge;
+   border-radius: 50px;
+   height: 150px;
+   margin-top: 2rem;
+   padding: 3rem;
+   text-align: center;
+}
+
+.not-found h2 {
+  color: brown;
+}
+
+.not-found a{
+  color: white;
+  background-color: green;
+  border-radius: 3rem;
+  padding: 1rem;
+  margin-top: 2rem;
+  display: block;
+  text-decoration: none;
+}
+
+.not-found a:hover{
+  background-color: rgba(0, 128, 0, 0.795);
+}
