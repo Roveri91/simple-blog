@@ -71,7 +71,7 @@
 }
 
 .blog-link{
-  text-decoration: none !important;
+  text-decoration: none;
 }
 
 
@@ -119,6 +119,26 @@
   color: mediumpurple;
   /* margin-bottom: 1pxs; */
 }
+
+.blog-details button {
+  background-color: crimson;
+  border: solid 2px crimson;
+  border-radius: 2rem;
+  padding: 10px 40px;
+  margin: 2rem auto;
+  color: white;
+  display: flex;
+}
+ .blog-details button:hover {
+  /* border-color: black; */
+  background-color: rgb(226, 96, 122);
+  border-color: rgb(226, 96, 122);
+ }
+
+ .blog-details button:active {
+  border-color: white;
+ }
+
 
 .blog-details div {
   margin-top: 2rem;
