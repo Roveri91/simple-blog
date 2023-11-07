@@ -10,9 +10,9 @@ In order to learn a little bit of React i decided to create this simple Blog Pag
 📱SCREENSHOT
 
 ![Screenshot 2023-11-07 195511](https://github.com/Roveri91/simple-blog/assets/105217392/005ec837-2943-4426-9cdb-9cdf4b4396cb)
-![Screenshot 2023-11-07 195808](https://github.com/Roveri91/simple-blog/assets/105217392/f0f02bb1-d5ec-40f5-97b8-856548fb458e)
-![Screenshot 2023-11-07 195702](https://github.com/Roveri91/simple-blog/assets/105217392/28a44f74-1620-4fdf-8383-f57966d1bf6c)
 ![Screenshot 2023-11-07 195639](https://github.com/Roveri91/simple-blog/assets/105217392/861c0cff-1713-457b-9bf7-b8315717d10b)
+![Screenshot 2023-11-07 195702](https://github.com/Roveri91/simple-blog/assets/105217392/28a44f74-1620-4fdf-8383-f57966d1bf6c)
+![Screenshot 2023-11-07 195808](https://github.com/Roveri91/simple-blog/assets/105217392/f0f02bb1-d5ec-40f5-97b8-856548fb458e)
 
 
 ⚙️ Setup
