@@ -19,11 +19,17 @@ In order to learn a little bit of React i decided to create this simple Blog Pag
 
 In the project directory, you can run:
 
-### `npm start`
+
+```
+npm start
+```
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### npx json-server --watch data/db.json --port 8000
+
+```
+npx json-server --watch data/db.json --port 8000
+```
 Runs the database on the localhost:8000 to have acces to pre-built blogs
 
 🔨 Built With
