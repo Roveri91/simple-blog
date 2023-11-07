@@ -30,7 +30,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ```
 npx json-server --watch data/db.json --port 8000
 ```
-Runs the database on the localhost:8000 to have acces to pre-built blogs
+Runs the database on the [localhost:8000](http://localhost:8000/blogs) to have acces to pre-built blogs
 
 🔨 Built With
 ---
